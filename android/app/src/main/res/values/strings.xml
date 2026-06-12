@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">activity-platform-client</string>
+    <string name="title_activity_main">activity-platform-client</string>
+    <string name="package_name">com.activityplatform.app</string>
+    <string name="custom_url_scheme">com.activityplatform.app</string>
+</resources>
